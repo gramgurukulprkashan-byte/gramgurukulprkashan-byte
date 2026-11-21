@@ -1,6 +1,6 @@
 <div align="center">
   <!-- अपना लोगो यहाँ लिंक करें (रिपॉजिटरी में logo.png अपलोड करने के बाद) -->
-  <img src="./logo.png" alt="GramGurukul Prakashan Logo" width="140" />
+  <img src="./logo.webp" alt="GramGurukul Prakashan Logo" width="140" />
 
   <h1>नमस्ते 🙏 | Welcome to GramGurukul Prakashan</h1>
   <p><strong>ज्ञान, शिक्षा और डिजिटल प्रकाशन का संगम</strong></p>

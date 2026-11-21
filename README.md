@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://gramgurukulpublication.com" target="_blank">
-      <img src="https://img.shields.io/badge/Official_Website-gramgurukulpublication.com-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Official_Website-www.gramgurukulprakashan.com-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
   </p>
 </div>

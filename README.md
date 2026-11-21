@@ -23,8 +23,8 @@
 * 🌐 **Accessible Knowledge:** ग्रामीण और शहरी—हर क्षेत्र के पाठकों तक सरल भाषा में ज्ञान पहुँचाना।
 
 ### 🔗 हमसे जुड़ें (Connect With Us)
-* **वेबसाइट (Website):** [gramgurukulpublication.com](https://gramgurukulpublication.com)
-* **ईमेल (Contact):** `contact@gramgurukulpublication.com` *(अपना आधिकारिक ईमेल यहाँ अपडेट करें)*
+* **वेबसाइट (Website):** [gramgurukulprakashan.com](https://gramgurukulprakashan.com)
+* **ईमेल (Contact):** `gramgurukulprkashan@gmail.com` *(अपना आधिकारिक ईमेल यहाँ अपडेट करें)*
 
 ---
 <div align="center">

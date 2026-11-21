@@ -6,7 +6,7 @@
   <p><strong>ज्ञान, शिक्षा और डिजिटल प्रकाशन का संगम</strong></p>
 
   <p>
-    <a href="https://gramgurukulpublication.com" target="_blank">
+    <a href="[https://gramgurukulpublication.com](https://gramgurukulprakashan.co)" target="_blank">
       <img src="https://img.shields.io/badge/Official_Website-gramgurukulprakashan.com-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
   </p>
